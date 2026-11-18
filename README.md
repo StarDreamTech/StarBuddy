@@ -1,5 +1,10 @@
 # 星搭子 Starbuddy
 
+[简体中文](README.md) | [English](README.en.md)
+
+<img src="assets/brand/starbuddy.svg" alt="StarBuddy" width="96" height="96">
+
+
 常驻桌面的星芽个人电脑助手。你填一个 AI Key，之后把需求交给星搭子：它决定用哪个项目、哪个本机 Agent（Claude Code、Codex 等）、什么模型与思考强度、新开还是续用会话、用哪些 Skill，派单后盯进度，完工把经验写回 Skill 与记忆。
 
 状态：第 0 期，正在从[星笺](https://github.com/cpython666/starclip)拆出星芽角色。当前仓库包含星芽桌面外壳的前端代码、成长系统与网关协议草案；守护进程与 Agent 适配器尚未实现。
